@@ -1,0 +1,30 @@
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.exe
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.deps.json
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.runtimeconfig.json
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.dll
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.pdb
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.AssemblyInfo.cs
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.dll
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\refint\NumeralMethod.dll
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.pdb
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.genruntimeconfig.cache
+C:\Users\honor\source\repos\NumeralMethod\NumeralMethod\obj\Debug\net6.0\ref\NumeralMethod.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.csproj.AssemblyReference.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.AssemblyInfoInputs.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.AssemblyInfo.cs
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.csproj.CoreCompileInputs.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\refint\NumeralMethod.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.pdb
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.exe
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.deps.json
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.runtimeconfig.json
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\bin\Debug\net6.0\NumeralMethod.pdb
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\NumeralMethod.genruntimeconfig.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 ЧМ Шестаков М.Д\NumeralMethod\NumeralMethod\obj\Debug\net6.0\ref\NumeralMethod.dll
